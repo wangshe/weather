@@ -43,4 +43,4 @@ jobs:
       uses: actions/upload-artifact@main
       with:
         name: weather
-        path: weather/app/build/outputs/apk
+        path: weather/app/build/outputs/apk/basic/release/app-basic-arm64-v8a-release-unsigned.apk
