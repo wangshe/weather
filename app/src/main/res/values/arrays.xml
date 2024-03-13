@@ -64,7 +64,7 @@
         <item>हिन्दी</item>
         <item>한국어</item>
         <item>日本語</item>
-        <item>中文</item>
+        <item>简体中文</item>
         <item>繁體中文</item>
     </string-array>
     <string-array name="language_values">
